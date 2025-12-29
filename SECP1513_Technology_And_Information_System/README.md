@@ -11,4 +11,6 @@ Chapter 7: Privacy, Security, and Ethics<br>
 Chapter 8: Cloud Computing<br>
 
 ### 💭 Reflection
-Attending the UTM Digital Open Day was a truly enriching experience. The event not only deepened my understanding of digital innovation but also gave me a fresh perspective on how technology can seamlessly integrate with and enhance university life. It made me realize that digital tools are more than just conveniences—they have the potential to transform how we learn, communicate, and engage within the campus community. This experience has inspired me to be more open to embracing technological advancements and to consider how they can shape the future of education.
+Assignment 1 - UTMDigital open day
+The UTM Digital Open Day was a valuable experience. It deepened my understanding of digital innovation and showed me how technology can enhance university life in meaningful ways. This event made me reflect on the important role technology plays in shaping learning and campus experiences, inspiring me to be more open to embracing digital change in education.
+
