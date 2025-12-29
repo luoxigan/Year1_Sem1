@@ -1,6 +1,6 @@
 # SECP1513_Technology_And_Information_System
 
-📑 Topics
+### 📑 Topics
 Chapter 1: Emerging Technology in ICT
 Chapter 2: Hardware
 Chapter 3: Software
@@ -10,4 +10,4 @@ Chapter 6: Networks and Communications
 Chapter 7: Privacy, Security, and Ethics
 Chapter 8: Cloud Computing
 
-💭 Reflection
+### 💭 Reflection
